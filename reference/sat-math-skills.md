@@ -58,6 +58,14 @@ bank.json, scan for question types not yet listed here and add them.
 - Interpret exponential growth/decay parameters (initial value, growth/decay rate, base) in context.
 - Compare average rate of change of a nonlinear function over an interval.
 - Match a transformed function (shifted, reflected, scaled) to its graph or equation.
+- Find the y-intercept of a function's graph, algebraically or from a table (including a table of a *related* function, e.g. g(x) = f(x)/(x+3)).
+- Find the vertex/minimum/maximum value of a quadratic given in standard, factored, or vertex form.
+- Determine the number of x-axis crossings of an exponential (or other nonlinear) function from its parameters.
+- Build an exponential function from a table of values (find the base and initial value).
+- Interpret a coefficient or parameter's meaning within a function model, not just the overall growth rate (e.g., what a specific factor represents).
+- Write an explicit formula for a geometric sequence.
+- Word problem modeled by a quadratic (e.g., revenue, an integer product) — solve by factoring or by finding the vertex.
+- Abstract reasoning: given a family of equivalent function forms, determine which one displays a specific feature (e.g. the y-intercept) as a visible constant or coefficient.
 
 ### Nonlinear equations in one variable and systems of equations in two variables
 - Solve a quadratic equation by factoring, completing the square, or the quadratic formula.
@@ -65,6 +73,10 @@ bank.json, scan for question types not yet listed here and add them.
 - Solve a system of one linear and one quadratic equation (find intersection points).
 - Solve an equation with a radical or rational expression, checking for extraneous solutions.
 - Determine the number of solutions to a nonlinear system from its graph or algebra.
+- Solve an absolute value equation (often SPR).
+- Solve a nonlinear system algebraically to find a full ordered-pair solution (not just one coordinate).
+- Find a parameter value that makes a line tangent to (intersect exactly once) a parabola, using the discriminant.
+- Literal equation rearrangement (solve for one variable in terms of others) in a nonlinear/rational form.
 
 ### Equivalent expressions
 - Rewrite a polynomial expression in an equivalent factored or expanded form.
@@ -72,6 +84,12 @@ bank.json, scan for question types not yet listed here and add them.
 - Rewrite an exponential expression using exponent rules.
 - Determine which of several expressions is algebraically equivalent to a given one.
 - Add, subtract, or multiply polynomial or rational expressions.
+- Factor a perfect-square trinomial or other special-product form.
+- Determine which of two given binomials is/are factors of a quadratic (Roman-numeral I/II style).
+- Rewrite a radical or rational-exponent expression as x^(a/b) and solve for the exponent (often SPR).
+- Substitute given expressions for variables into a combination and simplify (function-composition style).
+- Polynomial identity: match coefficients on both sides of an equation true "for all x" to solve for an unknown constant or product.
+- Factor a difference of squares, including with irrational roots (e.g. x^2 - 5).
 
 ---
 
@@ -145,3 +163,4 @@ bank.json, scan for question types not yet listed here and add them.
 Record here whenever this file is revised from newly parsed bank questions, e.g.:
 
 - 2026-09-07: Initial seed from general SAT knowledge, no bank data yet.
+- 2026-09-07: Parsed 50 Advanced Math questions (mixed Nonlinear functions / Nonlinear equations in one variable and systems of equations in two variables / Equivalent expressions — export wasn't filtered to a single skill) into bank.json. Added the question types actually observed under each of the three Advanced Math skills above.
