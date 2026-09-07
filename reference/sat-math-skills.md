@@ -23,18 +23,28 @@ bank.json, scan for question types not yet listed here and add them.
 - Solve a linear equation with variables/constants on both sides.
 - Solve a literal equation for one variable in terms of others.
 - Determine the number of solutions (one, none, infinite) from a form like `a(x+b) = ax+c`.
+- Given that a linear equation has infinitely many solutions, solve for an unknown constant in it (often SPR).
+- Set up and solve a real-world rate/word problem as a linear equation.
+- Translate a word problem into a linear equation *without* solving it (the answer choices are equations, not numbers).
 
 ### Linear functions
 - Given a table, graph, or equation, find the value of `f(x)` or the rate of change.
 - Write the equation of a line from two points, from a point and a slope, or from a real-world description.
 - Interpret slope and intercept in context (rate, starting value).
 - Compare two linear functions given in different representations (table vs. equation vs. graph).
+- Write a piecewise-style linear function from a real-world description (e.g. a flat fee plus a per-unit rate) using one given data point to solve for the unknown rate.
+- Build a linear model from two data points, then evaluate it at a new input.
+- Given a linear function, find the change in output for a given change in input using the slope alone (no need to evaluate the full function).
 
 ### Linear equations in two variables
 - Find the slope, x-intercept, or y-intercept of a line from its equation.
 - Convert between slope-intercept, standard, and point-slope forms.
 - Write an equation of a line parallel or perpendicular to a given line.
 - Determine whether a point lies on a given line.
+- Find an unknown coefficient in a line's equation given points the line passes through.
+- Given a table of values for a line, find a feature (e.g. x-intercept) of a vertically translated version of that line.
+- Interpret the coefficients of a two-variable linear equation modeling a real scenario (e.g., compare unit rates).
+- Read the x- or y-intercept of a given graph and interpret it in context (e.g., an estimated per-unit quantity).
 
 ### Systems of two linear equations in two variables
 - Solve a system by substitution or elimination for a numeric answer.
@@ -164,3 +174,4 @@ Record here whenever this file is revised from newly parsed bank questions, e.g.
 
 - 2026-09-07: Initial seed from general SAT knowledge, no bank data yet.
 - 2026-09-07: Parsed 50 Advanced Math questions (mixed Nonlinear functions / Nonlinear equations in one variable and systems of equations in two variables / Equivalent expressions — export wasn't filtered to a single skill) into bank.json. Added the question types actually observed under each of the three Advanced Math skills above.
+- 2026-09-07: Parsed 15 more questions (Algebra domain, all Hard difficulty, mixed across Linear equations in one variable / Linear functions / Linear equations in two variables) into bank.json. Bank is now 65 questions total. Added the question types actually observed under each of these three Algebra skills.
