@@ -1,0 +1,9 @@
+{
+  "name": "sat-math-tutoring",
+  "private": true,
+  "version": "1.0.0",
+  "description": "SAT Math tutoring project — PDF generation tooling for student deliverables.",
+  "dependencies": {
+    "marked": "^12.0.2"
+  }
+}
