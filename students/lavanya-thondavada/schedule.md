@@ -15,7 +15,7 @@ each one is the review session, per the Schedule rule.
 
 | Week of | Session date | Focus | Type | Files |
 |---|---|---|---|---|
-| 2026-09-07 | Thu 09-10 | Nonlinear equations in one variable and systems of equations in two variables | Lesson | students/lavanya-thondavada/lessons/2026-09-10-nonlinear-equations.md |
+| 2026-09-07 | Thu 09-10 | Nonlinear equations in one variable and systems of equations in two variables | Lesson | students/lavanya-thondavada/lessons/2026-09-10-nonlinear-equations.md, students/lavanya-thondavada/notes/nonlinear-equations-in-one-variable-and-systems-of-equations-in-two-variables.md, students/lavanya-thondavada/homework/2026-09-10-nonlinear-equations-hw.md |
 | 2026-09-14 | Thu 09-17 | Nonlinear equations (cont'd) + quiz | Quiz | students/lavanya-thondavada/quizzes/2026-09-17-nonlinear-equations-quiz.md |
 | 2026-09-21 | Thu 09-24 | Systems of two linear equations in two variables | Lesson | students/lavanya-thondavada/lessons/2026-09-24-systems.md |
 | 2026-09-28 | Thu 10-01 | Systems — quiz | Quiz | students/lavanya-thondavada/quizzes/2026-10-01-systems-quiz.md |
@@ -39,3 +39,9 @@ each one is the review session, per the Schedule rule.
   it. **Needs a full rebuild via `/plan` once you give me the real exam
   date, and practice test dates specifically — per the Schedule rule, those
   are yours to set, not mine to guess.**
+- 2026-09-07: First week's materials produced (notes, lesson, quiz,
+  homework) for Nonlinear equations in one variable and systems of
+  equations in two variables, using real official questions now in
+  bank.json. The 09-24 "Systems of two linear equations in two variables"
+  lesson is still blocked — that's an Algebra-domain skill and the bank
+  only has Advanced Math questions extracted so far.
