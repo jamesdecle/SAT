@@ -1,10 +1,7 @@
-<!-- Session length assumed at 60 minutes — not yet confirmed. Rebuild timing once
-     class days/times/length are given. -->
-
 # Lesson Plan — Andres Cabrera
 
-**Date:** TBD (first session)
-**Session length:** 60 minutes *(assumed — not yet confirmed)*
+**Date:** 2026-09-09 (first session — Wednesday)
+**Session length:** 60 minutes
 **Skill(s):** Desmos orientation (no content skill yet — first exposure, and no diagnostic data exists yet either)
 
 ## Objectives
@@ -26,7 +23,7 @@ Link: reference/desmos-playbook.md
 ### Desmos move demo
 Type `y1=3x-4` and `y2=11` on two lines, click the intersection, read x=5. Then add a slider: type `y1=a*x-4`, click "add slider" on `a`, drag it and watch the line rotate.
 
-## Guided practice (25 min)
+## Guided practice (30 min)
 Content-free Desmos fluency drill (no bank dependency — appropriate since there's no skill assignment yet):
 1. Graph `y=2x+3` and click where it crosses the y-axis.
 2. Graph `y=x^2-9` and click both x-intercepts.
@@ -48,4 +45,4 @@ None this session. First content homework goes out once a first skill is picked 
 - Push for a practice test ASAP — 25 days is tight and we're currently flying blind on skill priority.
 
 ---
-*Timing check: 5 + 15 + 25 + 10 = 55 minutes (assumes ~5 min buffer within a 60-minute session; adjust once real session length is confirmed).*
+*Timing check: 5 + 15 + 30 + 10 = 60 minutes.*
